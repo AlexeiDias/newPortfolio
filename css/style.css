@@ -182,9 +182,17 @@ p {
           text-justify: inter-word;
       }
 
+      .eu {
+        /* The image used */
+        background-image:  url(../images/eu.png);
+        height: 230px;
+        width: 200px;
+        margin-left: 140px;
+     }
+
 .footer {
         position: static;
-        margin-top: 400px;
+        margin-top: 650px;
         height: 65px;
         width: 100%;
         overflow: hidden;
@@ -305,9 +313,17 @@ p {
        text-justify: inter-word;
    }
 
+   .eu {
+    /* The image used */
+    background-image:  url(../images/eu.png);
+    height: 230px;
+    width: 200px;
+    margin-left: 190px;
+ }
+
 .footer {
      position: static;
-     margin-top: 400px;
+     margin-top: 550px;
      height: 65px;
      width: 100%;
      overflow: hidden;
@@ -317,7 +333,7 @@ p {
 
 i     {
      /* text-align: center; */
-     margin: 9px 60px 0px 60px;
+     margin: 9px 60px 0px 100px;
      float: left;
      color: white;
      
@@ -426,6 +442,14 @@ iframe {
     text-align: center;
    }
 
+   .eu {
+    /* The image used */
+    background-image:  url(../images/eu.png);
+    height: 230px;
+    width: 200px;
+    margin-left: 270px;
+ }
+
 p {
        position: static;
        font-size: 20px;
@@ -435,7 +459,7 @@ p {
 
 .footer {
      position: static;
-     margin-top: 150px;
+     margin-top: 390px;
      height: 65px;
      width: 100%;
      overflow: hidden;
@@ -491,12 +515,12 @@ i     {
      font-size: 40px;
      padding: 20px 15px;
      float: left;
-     margin: 4px 0 4px 340px;
+     margin: 4px 0 4px 20px;
      }
  
    /* The navbar */
 .topnav {
-     margin: 30px 340px 0 0px;
+     margin: 30px 0px 0 340px;
      width: 330px;
      overflow: hidden;
      background-color: #333;
@@ -562,9 +586,17 @@ p {
        text-justify: inter-word;
    }
 
+   .eu {
+    /* The image used */
+    background-image:  url(../images/eu.png);
+    height: 230px;
+    width: 200px;
+    margin-left: 380px;
+ }
+
 .footer {
      position: static;
-     margin-top: 100px;
+     margin-top: 300px;
      height: 65px;
      width: 100%;
      overflow: hidden;
@@ -694,7 +726,7 @@ p {
 
 .footer {
      position: static;
-     margin-top: 100px;
+     margin-top: 260px;
      height: 65px;
      width: 100%;
      overflow: hidden;
@@ -751,12 +783,12 @@ i     {
      font-size: 40px;
      padding: 20px 15px;
      float: left;
-     margin: 4px 0 4px 560px;
+     margin: 4px 0 4px 80px;
      }
  
    /* The navbar */
 .topnav {
-     margin: 30px 560px 0 0px;
+     margin: 30px 0px 0 700px;
      width: 330px;
      overflow: hidden;
      background-color: #333;
